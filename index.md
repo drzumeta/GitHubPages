@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: # Welcome to Drzumeta's development blog template
 ---
-
+body: I'm guessing this will be another box
+---
